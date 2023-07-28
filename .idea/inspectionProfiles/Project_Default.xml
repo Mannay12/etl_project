@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="button" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="telebot" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Test.app1.views.items_list" />
+          <option value="Test.app1.views.*" />
+          <option value="Test.app1.models.Task.odjects" />
+          <option value="Test.app1.models.Task.*" />
+          <option value="list.objects" />
+          <option value="list.*" />
+          <option value="Main.app1.models.Post.objects" />
+          <option value="Main.app1.models.self" />
+          <option value="Main.app1.views.froms" />
+          <option value="users.models" />
+          <option value="UserProfile" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
